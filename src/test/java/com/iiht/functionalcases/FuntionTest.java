@@ -29,7 +29,7 @@ import com.iiht.movie.service.MovieServiceImpl;
 import com.iiht.movie.service.MultiplexServiceImpl;
 import com.iiht.utiltestclass.MasterData;
 
-class FunctionalityTest {
+class FuntionTest {
 
 	static {
 		File file = new File("output_revised.txt");
